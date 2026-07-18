@@ -1,2 +1,2 @@
 MAINTENANCE=false
-FORCE_UPDATE=true
+FORCE_UPDATE=false
